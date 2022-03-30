@@ -1,0 +1,209 @@
+Current time: 0
+Clientii ce asteapta: 
+Task{id=0, arrivalTime=4, serviceTime=3}
+Task{id=3, arrivalTime=4, serviceTime=2}
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 1
+Clientii ce asteapta: 
+Task{id=0, arrivalTime=4, serviceTime=3}
+Task{id=3, arrivalTime=4, serviceTime=2}
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 2
+Clientii ce asteapta: 
+Task{id=0, arrivalTime=4, serviceTime=3}
+Task{id=3, arrivalTime=4, serviceTime=2}
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 3
+Clientii ce asteapta: 
+Task{id=0, arrivalTime=4, serviceTime=3}
+Task{id=3, arrivalTime=4, serviceTime=2}
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 4
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+Task{id=0, arrivalTime=4, serviceTime=3} 
+
+Queue: 2
+Task{id=3, arrivalTime=4, serviceTime=2} 
+
+Current time: 5
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+Task{id=0, arrivalTime=4, serviceTime=2} 
+
+Queue: 2
+Task{id=3, arrivalTime=4, serviceTime=1} 
+
+Current time: 6
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+Task{id=0, arrivalTime=4, serviceTime=1} 
+
+Queue: 2
+
+Current time: 7
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 8
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 9
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 10
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 11
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 12
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 13
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 14
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 15
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 16
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 17
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=18, serviceTime=2}
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 18
+Clientii ce asteapta: 
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+Task{id=1, arrivalTime=18, serviceTime=2} 
+
+Queue: 2
+
+Current time: 19
+Clientii ce asteapta: 
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+Task{id=1, arrivalTime=18, serviceTime=1} 
+
+Queue: 2
+
+Current time: 20
+Clientii ce asteapta: 
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 21
+Clientii ce asteapta: 
+Task{id=2, arrivalTime=22, serviceTime=2}
+Queue: 1
+
+Queue: 2
+
+Current time: 22
+Clientii ce asteapta: 
+Queue: 1
+Task{id=2, arrivalTime=22, serviceTime=2} 
+
+Queue: 2
+
+Current time: 23
+Clientii ce asteapta: 
+Queue: 1
+Task{id=2, arrivalTime=22, serviceTime=1} 
+
+Queue: 2
+
+Current time: 24
+Clientii ce asteapta: 
+Queue: 1
+
+Queue: 2
+
+Average service time: 2.25
+Average waiting time: 0.0

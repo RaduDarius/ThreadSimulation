@@ -1,0 +1,154 @@
+Current time: 0
+Clientii ce asteapta: 
+Task{id=8, arrivalTime=2, serviceTime=2}
+Task{id=11, arrivalTime=2, serviceTime=5}
+Task{id=1, arrivalTime=3, serviceTime=2}
+Task{id=3, arrivalTime=3, serviceTime=4}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=10, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=4}
+Task{id=14, arrivalTime=3, serviceTime=2}
+Task{id=16, arrivalTime=3, serviceTime=4}
+Task{id=18, arrivalTime=3, serviceTime=3}
+Task{id=19, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=5, serviceTime=5}
+Task{id=17, arrivalTime=5, serviceTime=3}
+Task{id=0, arrivalTime=6, serviceTime=2}
+Task{id=2, arrivalTime=6, serviceTime=3}
+Task{id=9, arrivalTime=7, serviceTime=2}
+Task{id=15, arrivalTime=7, serviceTime=6}
+Task{id=6, arrivalTime=8, serviceTime=3}
+Task{id=7, arrivalTime=8, serviceTime=6}
+Task{id=13, arrivalTime=8, serviceTime=6}
+Queue: 1
+
+Queue: 2
+
+Current time: 1
+Clientii ce asteapta: 
+Task{id=8, arrivalTime=2, serviceTime=2}
+Task{id=11, arrivalTime=2, serviceTime=5}
+Task{id=1, arrivalTime=3, serviceTime=2}
+Task{id=3, arrivalTime=3, serviceTime=4}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=10, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=4}
+Task{id=14, arrivalTime=3, serviceTime=2}
+Task{id=16, arrivalTime=3, serviceTime=4}
+Task{id=18, arrivalTime=3, serviceTime=3}
+Task{id=19, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=5, serviceTime=5}
+Task{id=17, arrivalTime=5, serviceTime=3}
+Task{id=0, arrivalTime=6, serviceTime=2}
+Task{id=2, arrivalTime=6, serviceTime=3}
+Task{id=9, arrivalTime=7, serviceTime=2}
+Task{id=15, arrivalTime=7, serviceTime=6}
+Task{id=6, arrivalTime=8, serviceTime=3}
+Task{id=7, arrivalTime=8, serviceTime=6}
+Task{id=13, arrivalTime=8, serviceTime=6}
+Queue: 1
+
+Queue: 2
+
+Current time: 2
+Clientii ce asteapta: 
+Task{id=1, arrivalTime=3, serviceTime=2}
+Task{id=3, arrivalTime=3, serviceTime=4}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=10, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=4}
+Task{id=14, arrivalTime=3, serviceTime=2}
+Task{id=16, arrivalTime=3, serviceTime=4}
+Task{id=18, arrivalTime=3, serviceTime=3}
+Task{id=19, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=5, serviceTime=5}
+Task{id=17, arrivalTime=5, serviceTime=3}
+Task{id=0, arrivalTime=6, serviceTime=2}
+Task{id=2, arrivalTime=6, serviceTime=3}
+Task{id=9, arrivalTime=7, serviceTime=2}
+Task{id=15, arrivalTime=7, serviceTime=6}
+Task{id=6, arrivalTime=8, serviceTime=3}
+Task{id=7, arrivalTime=8, serviceTime=6}
+Task{id=13, arrivalTime=8, serviceTime=6}
+Queue: 1
+Task{id=8, arrivalTime=2, serviceTime=2} 
+
+Queue: 2
+Task{id=11, arrivalTime=2, serviceTime=5} 
+
+Current time: 3
+Clientii ce asteapta: 
+Task{id=5, arrivalTime=5, serviceTime=5}
+Task{id=17, arrivalTime=5, serviceTime=3}
+Task{id=0, arrivalTime=6, serviceTime=2}
+Task{id=2, arrivalTime=6, serviceTime=3}
+Task{id=9, arrivalTime=7, serviceTime=2}
+Task{id=15, arrivalTime=7, serviceTime=6}
+Task{id=6, arrivalTime=8, serviceTime=3}
+Task{id=7, arrivalTime=8, serviceTime=6}
+Task{id=13, arrivalTime=8, serviceTime=6}
+Queue: 1
+Task{id=8, arrivalTime=2, serviceTime=1} 
+Task{id=1, arrivalTime=3, serviceTime=2} 
+Task{id=3, arrivalTime=3, serviceTime=4} 
+Task{id=10, arrivalTime=3, serviceTime=3} 
+Task{id=14, arrivalTime=3, serviceTime=2} 
+Task{id=18, arrivalTime=3, serviceTime=3} 
+Task{id=19, arrivalTime=3, serviceTime=3} 
+
+Queue: 2
+Task{id=11, arrivalTime=2, serviceTime=4} 
+Task{id=4, arrivalTime=3, serviceTime=3} 
+Task{id=12, arrivalTime=3, serviceTime=4} 
+Task{id=16, arrivalTime=3, serviceTime=4} 
+
+Current time: 4
+Clientii ce asteapta: 
+Task{id=5, arrivalTime=5, serviceTime=5}
+Task{id=17, arrivalTime=5, serviceTime=3}
+Task{id=0, arrivalTime=6, serviceTime=2}
+Task{id=2, arrivalTime=6, serviceTime=3}
+Task{id=9, arrivalTime=7, serviceTime=2}
+Task{id=15, arrivalTime=7, serviceTime=6}
+Task{id=6, arrivalTime=8, serviceTime=3}
+Task{id=7, arrivalTime=8, serviceTime=6}
+Task{id=13, arrivalTime=8, serviceTime=6}
+Queue: 1
+Task{id=1, arrivalTime=3, serviceTime=1} 
+Task{id=3, arrivalTime=3, serviceTime=3} 
+Task{id=10, arrivalTime=3, serviceTime=2} 
+Task{id=14, arrivalTime=3, serviceTime=1} 
+Task{id=18, arrivalTime=3, serviceTime=2} 
+Task{id=19, arrivalTime=3, serviceTime=2} 
+
+Queue: 2
+Task{id=11, arrivalTime=2, serviceTime=3} 
+Task{id=4, arrivalTime=3, serviceTime=2} 
+Task{id=12, arrivalTime=3, serviceTime=3} 
+Task{id=16, arrivalTime=3, serviceTime=3} 
+
+Current time: 5
+Clientii ce asteapta: 
+Task{id=0, arrivalTime=6, serviceTime=2}
+Task{id=2, arrivalTime=6, serviceTime=3}
+Task{id=9, arrivalTime=7, serviceTime=2}
+Task{id=15, arrivalTime=7, serviceTime=6}
+Task{id=6, arrivalTime=8, serviceTime=3}
+Task{id=7, arrivalTime=8, serviceTime=6}
+Task{id=13, arrivalTime=8, serviceTime=6}
+Queue: 1
+Task{id=3, arrivalTime=3, serviceTime=2} 
+Task{id=10, arrivalTime=3, serviceTime=1} 
+Task{id=18, arrivalTime=3, serviceTime=1} 
+Task{id=19, arrivalTime=3, serviceTime=1} 
+Task{id=5, arrivalTime=5, serviceTime=5} 
+
+Queue: 2
+Task{id=11, arrivalTime=2, serviceTime=2} 
+Task{id=4, arrivalTime=3, serviceTime=1} 
+Task{id=12, arrivalTime=3, serviceTime=2} 
+Task{id=16, arrivalTime=3, serviceTime=2} 
+Task{id=17, arrivalTime=5, serviceTime=3} 
+
+Average service time: 3.55
+Average waiting time: 2.5
